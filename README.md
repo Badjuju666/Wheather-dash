@@ -27,3 +27,5 @@ LIVE SITE OFF GITHUB HOST (https://badjuju666.github.io/Wheather-dash/)
 2. behold the weathers :)
 
 ![Capture](https://raw.githubusercontent.com/Badjuju666/Wheather-dash/main/Screen%20Shot%202021-02-09%20at%2012.03.32%20AM.png)
+
+Developed by: **Julian Graves**
