@@ -16,6 +16,8 @@ In the 5-Day forecast the user will find these details on weather
 
 User May also clear the history of the cities searched up.
 
+LIVE SITE OFF GITHUB HOST (https://badjuju666.github.io/Wheather-dash/)
+
 ### screenshots:
 
 1. search your city
