@@ -1,24 +1,27 @@
-Weather Dashboard
+# Weather Dashboard
 
-Description
+### Description
 I have a weather app for finding any cities current weather condition as well as forcast for the next 5-Days. Server-side API: OpenWeather API. Weather details include;
-*City, Date, Weather Icon.
-*Temperature
-*Humidity
-*Wind Speed
-*UV
+- City, Date, Weather Icon.
+- Temperature
+- Humidity
+- Wind Speed
+- UV
+
 In the 5-Day forecast the user will find these details on weather
-*Date
-*Icon image
-*Temperature
-*Humidity
+- Date
+- Icon image
+- Temperature
+- Humidity
 
 User May also clear the history of the cities searched up.
 
-screenshots:
+### screenshots:
 
-1st search your city
-/challenge 6/Screen Shot 2021-02-09 at 12.03.14 AM.png
+1. search your city
 
-behold the weathers :)
-/challenge 6/Screen Shot 2021-02-09 at 12.03.32 AM.png
+![Capture](https://raw.githubusercontent.com/Badjuju666/Wheather-dash/main/Screen%20Shot%202021-02-09%20at%2012.03.14%20AM.png)
+
+2. behold the weathers :)
+
+![Capture](https://raw.githubusercontent.com/Badjuju666/Wheather-dash/main/Screen%20Shot%202021-02-09%20at%2012.03.32%20AM.png)
